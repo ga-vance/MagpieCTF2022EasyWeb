@@ -1,7 +1,7 @@
 # Last Act of Defiance
 
 ### Category: Web Exploitation
-### Author: Greg Vance (Expergefied)
+### Author: Greg Vance
 
 ## Description
 We received a message from the founder of Flag West. They said that there was one flag that they were able to hide before Mom & Pops got them all. The message said that it is hidden somewhere in the website, and that you just need to inspect it a little. Flag West was one of the first aquisitions that Mom & Pops made, so it is surprising to hear that there still might be a flag left. Get in there and find that flag, make Flag West's last act of defiance worth something.
